@@ -32,7 +32,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     PartnerBookmarksProvider \
-    Stk \
     Tag \
 
 # OTA support
